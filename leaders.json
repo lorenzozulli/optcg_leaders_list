@@ -1,0 +1,861 @@
+{
+	"data": [
+		{
+			"name": "Kozuki Oden",
+			"id": "EB01-001",
+			"image": "https://drive.google.com/uc?id=1fmSbXP3niZP2l4h-PBQyyJeGrNFpVJoh",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "red"]
+		},
+		{
+			"name": "Hannyabal",
+			"id": "EB01-021",
+			"image": "https://drive.google.com/uc?id=13inLKpitCIXZYKc873_6ALYnLNQHLgKo",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "purple"]
+		},
+		{
+			"name": "Kyros",
+			"id": "EB01-040",
+			"image": "https://drive.google.com/uc?id=11CzTzUGqM8a27RuKj7dNy7Eu4DLE_bKM",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "yellow"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "EB02-010",
+			"image": "https://drive.google.com/uc?id=18JMGzRy6QNMQqhcbulkA2zpl5X79chE0",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "purple"]
+		},
+		{
+			"name": "Roronoa Zoro",
+			"id": "OP01-001",
+			"image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?250530",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Trafalgar Law",
+			"id": "OP01-002",
+			"image": "https://drive.google.com/uc?id=1tnPOgv4auj_Yfo1EDq2sCPZm8vpn5gU1",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "red"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "OP01-003",
+			"image": "https://drive.google.com/uc?id=16oZOcVV-5eiSe_tD85alr3GhCOSWfZT6",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "red"]
+		},
+		{
+			"name": "Kozuki Oden",
+			"id": "OP01-031",
+			"image": "https://drive.google.com/uc?id=1vTEs7yzxZjAFE6vnbx2rUhH9CEwAv7T-",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Donquixote Doflamingo",
+			"id": "OP01-060",
+			"image": "https://drive.google.com/uc?id=1S6xnqiiEET1KXhm24DydO3NNDiPOQGmO",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Kaido",
+			"id": "OP01-061",
+			"image": "https://drive.google.com/uc?id=1iwoZIVIArK-NnEFg136b0wr7gHQhrh_-",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "purple"]
+		},
+		{
+			"name": "Crocodile",
+			"id": "OP01-062",
+			"image": "https://drive.google.com/uc?id=1SoTc7gLvcoNO_M1RAQ3blLuycDWEiw8-",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "purple"]
+		},
+		{
+			"name": "King",
+			"id": "OP01-091",
+			"image": "https://drive.google.com/uc?id=1xRYRtZYP2BYiR7YfLw-UMfCpklDYHrkb",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Edward Newgate",
+			"id": "OP02-001",
+			"image": "https://drive.google.com/uc?id=1cZH3c-nNFvWf0mtCdHmFPbbz2Xu638Mb",
+			"life": "6",
+			"power": "6000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Monkey.D.Garp",
+			"id": "OP02-002",
+			"image": "https://drive.google.com/uc?id=184UZ_y6cZy7OmXKtJfWGJWLfUNnnqb3s",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "red"]
+		},
+		{
+			"name": "Kin'Emon",
+			"id": "OP02-025",
+			"image": "https://drive.google.com/uc?id=1sHV1faI7vKybuoKDmJcvg_7JBiBW9hwp",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Sanji",
+			"id": "OP02-026",
+			"image": "https://drive.google.com/uc?id=1eoWefmAZ3nDRzfKagzEcCaG1dZ0eUfxh",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "green"]
+		},
+		{
+			"name": "Emporio Ivankov",
+			"id": "OP02-049",
+			"image": "https://drive.google.com/uc?id=1lHBksSYBiQvIgNevjIjxlRkAng1zNmrK",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Magellan",
+			"id": "OP02-071",
+			"image": "https://drive.google.com/uc?id=1XLODp1FdnkmpoGqhaGIu50p5_5IPf4uY",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Zephyr",
+			"id": "OP02-072",
+			"image": "https://drive.google.com/uc?id=1_iDqYAiWo-kgBu59DzGmofvlW2JBg6rj",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "purple"]
+		},
+		{
+			"name": "Smoker",
+			"id": "OP02-093",
+			"image": "https://drive.google.com/uc?id=1wRV6atXkPxv_e8jMBxGFUpUOrsir8oYJ",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Portgas.D.Ace",
+			"id": "OP03-001",
+			"image": "https://drive.google.com/uc?id=1l2ogStsmFSA1563T4YJajAIGLjtm41X5",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Kuro",
+			"id": "OP03-021",
+			"image": "https://drive.google.com/uc?id=1wgyG2WGzrNiq322XK6xeAZ2s5XOJ0Qxj",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Arlong",
+			"id": "OP03-022",
+			"image": "https://drive.google.com/uc?id=1zeT9mAQjACAllPTMrsPLLXokv6Y00l6N",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "yellow"]
+		},
+		{
+			"name": "Nami",
+			"id": "OP03-040",
+			"image": "https://drive.google.com/uc?id=1Ad7LRrBLvR3jYnLbDppi7ZHsoA736QfH",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Iceburg",
+			"id": "OP03-058",
+			"image": "https://drive.google.com/uc?id=1jjSrKMk8QWMzB1p9tTORfxHcvfUtkeGR",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Rob Lucci",
+			"id": "OP03-076",
+			"image": "https://drive.google.com/uc?id=1ZAkGp78nf-_sa7YqG66d7puuodkOuDmq",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Charlotte Linlin",
+			"id": "OP03-077",
+			"image": "https://drive.google.com/uc?id=1IPnUCFHEaYBnBPaiIIFd8PYp8dlnOhDQ",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "yellow"]
+		},
+		{
+			"name": "Charlotte Katakuri",
+			"id": "OP03-099",
+			"image": "https://drive.google.com/uc?id=1K4SeTCUwOwoVQ79TWI6S6k74vgaI87de",
+			"life": "5",
+			"power": "5000",
+			"colors": ["yellow"]
+		},
+		{
+			"name": "Nefertari Vivi",
+			"id": "OP04-001",
+			"image": "https://drive.google.com/uc?id=1Ww2U4BUUEsbevbA5x5iqiRaNX161pwv9",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue", "red"]
+		},
+		{
+			"name": "Donquixote Doflamingo",
+			"id": "OP04-019",
+			"image": "https://drive.google.com/uc?id=1RsvxayU75EqnfgsAKSSdhNtaKMqvv6Rj",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "purple"]
+		},
+		{
+			"name": "Issho",
+			"id": "OP04-020",
+			"image": "https://drive.google.com/uc?id=1dTOGrdacwgiMST9x-jmc7Kc5OGmVhl8N",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "green"]
+		},
+		{
+			"name": "Rebecca",
+			"id": "OP04-039",
+			"image": "https://drive.google.com/uc?id=1HyyOMBj7K1UxGOCsbXEsBdQehlFi2ZUk",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black", "blue"]
+		},
+		{
+			"name": "Queen",
+			"id": "OP04-040",
+			"image": "https://drive.google.com/uc?id=1Fn_1lptHgAmEIbX0CgZwB4o0p5_JYNZP",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "yellow"]
+		},
+		{
+			"name": "Crocodile",
+			"id": "OP04-058",
+			"image": "https://drive.google.com/uc?id=1WMTTmU4KyQgc_fgV0BDAZ43CRMKgrBKs",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "yellow"]
+		},
+		{
+			"name": "Sabo",
+			"id": "OP05-001",
+			"image": "https://drive.google.com/uc?id=1yiRk2S0SGTCX0wJ3S7-eSNdbdSTHE2-o",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "red"]
+		},
+		{
+			"name": "Belo Betty",
+			"id": "OP05-002",
+			"image": "https://drive.google.com/uc?id=1GuwbmohqXMrG2ak042MY0CjC_RwE-psB",
+			"life": "4",
+			"power": "5000",
+			"colors": ["red", "yellow"]
+		},
+		{
+			"name": "Donquixote Rosinante",
+			"id": "OP05-022",
+			"image": "https://drive.google.com/uc?id=1-inXzGEnCs2x-Gi_7fLRJ9pG3VgC3jjG",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "green"]
+		},
+		{
+			"name": "Sakazuki",
+			"id": "OP05-041",
+			"image": "https://drive.google.com/uc?id=1pYNheIaJTBkuJWINrAn9ZLXusvzLkbht",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "blue"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "OP05-060",
+			"image": "https://drive.google.com/uc?id=1-ROnerQY7a_jcveiblejocU8UDcZIRaT",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Enel",
+			"id": "OP05-098",
+			"image": "https://drive.google.com/uc?id=1ZOo3RXlYGTAOtSEZ812-Y0Uv-pUwitJX",
+			"life": "4",
+			"power": "5000",
+			"colors": ["yellow"]
+		},
+		{
+			"name": "Uta",
+			"id": "OP06-001",
+			"image": "https://drive.google.com/uc?id=1eL2FJZhrTex6iAYfL1gsZMivIca9fqYq",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "red"]
+		},
+		{
+			"name": "Hody Jones",
+			"id": "OP06-020",
+			"image": "https://drive.google.com/uc?id=1wce9_saPEBO96NS6oLPIVYUBIEW2O-oB",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Perona",
+			"id": "OP06-021",
+			"image": "https://drive.google.com/uc?id=1zh0EsPea3RHf1suBINgz-i-kczIUcMwZ",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "green"]
+		},
+		{
+			"name": "Yamato",
+			"id": "OP06-022",
+			"image": "https://drive.google.com/uc?id=1FnaI1ZjA4KL3EuCcr3oBXQjaEHoW-zC7",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "yellow"]
+		},
+		{
+			"name": "Vinsmoke Reiju",
+			"id": "OP06-042",
+			"image": "https://drive.google.com/uc?id=1D8kBiG-RKBwXxr9PkSYi1KZb2NiZ1RNe",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "purple"]
+		},
+		{
+			"name": "Gecko Moria",
+			"id": "OP06-080",
+			"image": "https://drive.google.com/uc?id=1iPo82FsIpigRPNt3KWPAteAKiX_UlThc",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Monkey.D.Dragon",
+			"id": "OP07-001",
+			"image": "https://drive.google.com/uc?id=14Xf4KJR87c3w__f3Mjj_xuG4r1bqwsMJ",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Jewelry Bonney",
+			"id": "OP07-019",
+			"image": "https://drive.google.com/uc?id=1vnnPhM_BxGnUtUK4hVW4vTGkCUTP52d2",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Boa Hancock",
+			"id": "OP07-038",
+			"image": "https://drive.google.com/uc?id=1X49U1JrPMkAYmNrbKnlbGH0cvAGzo0hG",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Foxy",
+			"id": "OP07-059",
+			"image": "https://drive.google.com/uc?id=1GcDaFU5Cel4TvgkkRV0s-gYQLkghWnQD",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Rob Lucci",
+			"id": "OP07-079",
+			"image": "https://drive.google.com/uc?id=1DHyy40sfcHIusK9P24PafpLGgU3TiRoi",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Vegapunk",
+			"id": "OP07-097",
+			"image": "https://drive.google.com/uc?id=1OaNd9c4o3nILAFamghjycSWdvSSy6jmo",
+			"life": "2",
+			"power": "5000",
+			"colors": ["yellow"]
+		},
+		{
+			"name": "Tony Tony.Chopper",
+			"id": "OP08-001",
+			"image": "https://drive.google.com/uc?id=1orVgMVjn01Rkdoefg_PjfMJoe3mz743A",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "red"]
+		},
+		{
+			"name": "Marco",
+			"id": "OP08-002",
+			"image": "https://drive.google.com/uc?id=1aLZSZX0emLyP1Xr9a9g5xbsCGhWxIGVD",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "red"]
+		},
+		{
+			"name": "Carrot",
+			"id": "OP08-021",
+			"image": "https://drive.google.com/uc?id=17GbzUVlx35f37Yt3-Q4jfy5DS_0F3mxA",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "King",
+			"id": "OP08-057",
+			"image": "https://drive.google.com/uc?id=14c3O3b6uXJfz2m8V7ceXo-NRAYwGomoP",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "purple"]
+		},
+		{
+			"name": "Charlotte Pudding",
+			"id": "OP08-058",
+			"image": "https://drive.google.com/uc?id=17W9Aqs5nc7jidkkC_taYt1pVoKkvSqgE",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "yellow"]
+		},
+		{
+			"name": "Kalgara",
+			"id": "OP08-098",
+			"image": "https://drive.google.com/uc?id=11m8AVPbJp47l-JKc2ItyrwySwpmxzvr8",
+			"life": "5",
+			"power": "5000",
+			"colors": ["yellow"]
+		},
+		{
+			"name": "Shanks",
+			"id": "OP09-001",
+			"image": "https://drive.google.com/uc?id=1vHw-1S7Dm4RlLwln5hH8dH51w_2GQMkz",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Lim",
+			"id": "OP09-022",
+			"image": "https://drive.google.com/uc?id=1y-WDvH_r49O4LMAcTWzuDSRBuAEjdz8e",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "purple"]
+		},
+		{
+			"name": "Buggy",
+			"id": "OP09-042",
+			"image": "https://drive.google.com/uc?id=1eba_sE31hF22K6X6lgqr4zMZjJ7qvBy6",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "OP09-061",
+			"image": "https://drive.google.com/uc?id=1Rk7-fz0NWmMBQelssJboJkvm-daLmIrB",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "purple"]
+		},
+		{
+			"name": "Nico Robin",
+			"id": "OP09-062",
+			"image": "https://drive.google.com/uc?id=1JvYy1xlUwzf4UVkbJj57y0QT1qKEgV0n",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "yellow"]
+		},
+		{
+			"name": "Marshall.D.Teach",
+			"id": "OP09-081",
+			"image": "https://drive.google.com/uc?id=1GU_eH-4s8jai-0_BrzBHCKKJfLy_8Vyl",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Smoker",
+			"id": "OP10-001",
+			"image": "https://drive.google.com/uc?id=1NcViFOwB4kb4B-PNfiXnPHorDrT3MvmF",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "red"]
+		},
+		{
+			"name": "Caesar Clown",
+			"id": "OP10-002",
+			"image": "https://drive.google.com/uc?id=10TZmiA5CrnwEMFSp6sjXdE_q0H67kz6F",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "red"]
+		},
+		{
+			"name": "Sugar",
+			"id": "OP10-003",
+			"image": "https://drive.google.com/uc?id=1g4xpJlq3PF1zRh3dXCSaWJPYrgc5EYnE",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "red"]
+		},
+		{
+			"name": "Trafalgar Law",
+			"id": "OP10-022",
+			"image": "https://drive.google.com/uc?id=1kB5CBDIev-aCRjf0xwZhXqgYvLtaiSLM",
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "yellow"]
+		},
+		{
+			"name": "Usopp",
+			"id": "OP10-042",
+			"image": "https://drive.google.com/uc?id=1kneBckTUPWDe5Ny9FRmn3k3gcarO_Zt_",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "blue"]
+		},
+		{
+			"name": "Eustass \"Captain\" Kidd",
+			"id": "OP10-099",
+			"image": "https://drive.google.com/uc?id=1K_XZjnfLmpp-Tk8ekN3jVCue6ZuMBDtd",
+			"life": "5",
+			"power": "5000",
+			"colors": ["yellow"]
+		},
+		{
+			"name": "Koby",
+			"id": "OP11-001",
+			"image": "https://drive.google.com/uc?id=1NRRtZmFq7xBzok0YDES0dMeTsRvK3H4K",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "red"]
+		},
+		{
+			"name": "Jinbe",
+			"id": "OP11-021",
+			"image": "https://drive.google.com/uc?id=1-C_fWyynuLW_pXHqEyh9dc2cCWHTRVJ4",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Shirahoshi",
+			"id": "OP11-022",
+			"image": "https://drive.google.com/uc?id=1MlH5nGgTzNBfm66TArgJ53Y_5UlMaElL",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green", "yellow"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "OP11-040",
+			"image": "https://drive.google.com/uc?id=1C8jrowbpN-TarzSelvo_wqVwurGCL9VU",
+			"life": "3",
+			"power": "6000",
+			"colors": ["blue", "purple"]
+		},
+		{
+			"name": "Nami",
+			"id": "OP11-041",
+			"image": "https://drive.google.com/uc?id=1gKjZqVtfSMLw2V8vj8E7AjNeB9zHRnS7",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "yellow"]
+		},
+		{
+			"name": "Charlotte Katakuri",
+			"id": "OP11-062",
+			"image": "https://drive.google.com/uc?id=1VtIxRMDSrghB1aIw2ZxuZ43AmVJht5U-",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Silvers Rayleigh",
+			"id": "OP12-001",
+			"image": "https://drive.google.com/uc?id=1z2kgMzuvZxPPYDJdWvwwjjRuE-bcNBAs",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Roronoa Zoro",
+			"id": "OP12-020",
+			"image": "https://drive.google.com/uc?id=1wBJyxLyvGLeLFCzvL_ivmOVvABA3CfDN",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Kuzan",
+			"id": "OP12-040",
+			"image": "https://drive.google.com/uc?id=1VR-KLAoNUb3_OShuyYrToay_CQ_LCEfb",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Sanji",
+			"id": "OP12-041",
+			"image": "https://drive.google.com/uc?id=1YWxygT3uURZwrVFfMnFt9zoPHsbW5x6g",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "purple"]
+		},
+		{
+			"name": "Donquixote Rosinante",
+			"id": "OP12-061",
+			"image": "https://drive.google.com/uc?id=1hypcoRopJJX4vGA60HhJQkVKwBGjy2t7",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "yellow"]
+		},
+		{
+			"name": "Koala",
+			"id": "OP12-081",
+			"image": "https://drive.google.com/uc?id=147Hm180lRtdeA9jw95cjYrBvn_qTU0le",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "yellow"]
+		},
+		{
+			"name": "Sanji",
+			"id": "PRB01-001",
+			"image": "https://drive.google.com/uc?id=1z4RfLjyaCOVm7ac-Bg9Tv-jUquoU0SZA",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "ST01-001",
+			"image": "https://drive.google.com/uc?id=12nhQPly9Mmp3O_q9rphslKs9MLGCnE2B",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Eustass \"Captain\" Kidd",
+			"id": "ST02-001",
+			"image": "https://drive.google.com/uc?id=1MiWedaD-mmcT95OkVT84GJOnzNGqvVa3",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Crocodile",
+			"id": "ST03-001",
+			"image": "https://drive.google.com/uc?id=11CiMGHfF6K3sWsXbmHb6QN5gYcD8GJVy",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Kaido",
+			"id": "ST04-001",
+			"image": "https://drive.google.com/uc?id=1wS_Fot-V_YWP0NQy8Gc72p6JV3_JdssY",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Shanks",
+			"id": "ST05-001",
+			"image": "https://drive.google.com/uc?id=1qGg-kf-DH7yZkK1X0edbxkmlD899B_QS",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple"]
+		},
+		{
+			"name": "Sakazuki",
+			"id": "ST06-001",
+			"image": "https://drive.google.com/uc?id=1g7BSvP7rgQ5cim7fxafUrMYJSvtpl2W2",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Charlotte Linlin",
+			"id": "ST07-001",
+			"image": "https://drive.google.com/uc?id=1TZ5scqmGBxAR0lC3p4LUuHrcOU_pSTLs",
+			"life": "5",
+			"power": "5000",
+			"colors": ["yellow"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "ST08-001",
+			"image": "https://drive.google.com/uc?id=1bhkR70MkV4PqTZZ0Rf5TITETyMHIGRyC",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Yamato",
+			"id": "ST09-001",
+			"image": "https://drive.google.com/uc?id=12f4HMO4T4SiNErSU-rbIliQr3FTh8Ikl",
+			"life": "5",
+			"power": "5000",
+			"colors": ["yellow"]
+		},
+		{
+			"name": "Trafalgar Law",
+			"id": "ST10-001",
+			"image": "https://drive.google.com/uc?id=1ymsuuPtYb0XImrr5CKSf2uSKC3v1-58V",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "red"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "ST10-002",
+			"image": "https://drive.google.com/uc?id=1ymsuuPtYb0XImrr5CKSf2uSKC3v1-58V",
+			"life": "3",
+			"power": "6000",
+			"colors": ["purple", "red"]
+		},
+		{
+			"name": "Eustass \"Captain\" Kidd",
+			"id": "ST10-003",
+			"image": "https://drive.google.com/uc?id=152fDzvDkN1yu_8GwXZyCahhBGdP1YIqC",
+			"life": "5",
+			"power": "5000",
+			"colors": ["purple", "red"]
+		},
+		{
+			"name": "Uta",
+			"id": "ST11-001",
+			"image": "https://drive.google.com/uc?id=1fE5TH_KF4ZAzyjCHiiRaFaSFI7lnHSJE",
+			"life": "5",
+			"power": "5000",
+			"colors": ["green"]
+		},
+		{
+			"name": "Roronoa Zoro & Sanji",
+			"id": "ST12-001",
+			"image": "https://drive.google.com/uc?id=1GTHpJXldBoSVG90eS6N5bTLoe2UrlzVE",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "green"]
+		},
+		{
+			"name": "Sabo",
+			"id": "ST13-001",
+			"image": "https://drive.google.com/uc?id=1iAEXVq_6bLrf5zgqlZnqNMCxWWLq7_G5",
+			"life": "4",
+			"power": "5000",
+			"colors": ["red", "yellow"]
+		},
+		{
+			"name": "Portgas.D.Ace",
+			"id": "ST13-002",
+			"image": "https://drive.google.com/uc?id=1sE_r5vupgUYaOC3Tr5rqc2Ovh8f8RgPS",
+			"life": "4",
+			"power": "5000",
+			"colors": ["blue", "yellow"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "ST13-003",
+			"image": "https://drive.google.com/uc?id=17JfEqbzXS9YD1gHyIf_HxKznpcE8nVss",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "yellow"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "ST14-001",
+			"image": "https://drive.google.com/uc?id=1Yn-m45kPYszeKW2mjfTqDewoSNmwK0MC",
+			"life": "5",
+			"power": "5000",
+			"colors": ["black"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "ST21-001",
+			"image": "https://drive.google.com/uc?id=1BegOOv7n5Kwbd_upxWaFaAKGll4hzExV",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Uta",
+			"id": "P-011",
+			"image": "https://drive.google.com/uc?id=1UsPiV79pQlwZ7sEMU48BJwJoGq_6xl1Q",
+			"life": "5",
+			"power": "5000",
+			"colors": ["red"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "P-047",
+			"image": "https://drive.google.com/uc?id=1GR1pMq4Qp7-WuhZ6_KfHMwFDbgboWbhw",
+			"life": "5",
+			"power": "5000",
+			"colors": ["blue"]
+		},
+		{
+			"name": "Sakazuki",
+			"id": "P-076",
+			"image": "https://drive.google.com/uc?id=1CTvLvT1bBuYs6MDuiqb4vo1jLoUJq0f1",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "blue"]
+		},
+		{
+			"name": "Trafalgar Law",
+			"id": "P-088",
+			"image": "https://drive.google.com/uc?id=1aYECbKsYHfKBTugVBjxKtpuxAs7F_1tQ",
+			"life": "4",
+			"power": "5000",
+			"colors": ["purple", "red"]
+		},
+		{
+			"name": "Monkey.D.Luffy",
+			"id": "P-999",
+			"image": "https://drive.google.com/uc?id=1NtKX3OwLp0UVpVEWcZBHwWbWX-Jg1CA5",
+			"life": "4",
+			"power": "5000",
+			"colors": ["black", "blue", "green", "purple", "red", "yellow"]
+		}
+	]
+}
+
