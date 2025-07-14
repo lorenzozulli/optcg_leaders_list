@@ -3,7 +3,13 @@
 		{
 			"name": "Kozuki Oden",
 			"id": "EB01-001",
-			"image": "https://drive.google.com/uc?id=1fmSbXP3niZP2l4h-PBQyyJeGrNFpVJoh",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "red"]
@@ -11,7 +17,13 @@
 		{
 			"name": "Hannyabal",
 			"id": "EB01-021",
-			"image": "https://drive.google.com/uc?id=13inLKpitCIXZYKc873_6ALYnLNQHLgKo",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "purple"]
@@ -19,7 +31,12 @@
 		{
 			"name": "Kyros",
 			"id": "EB01-040",
-			"image": "https://drive.google.com/uc?id=11CzTzUGqM8a27RuKj7dNy7Eu4DLE_bKM",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p2.png?250701"
+				]
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "yellow"]
@@ -27,7 +44,13 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "EB02-010",
-			"image": "https://drive.google.com/uc?id=18JMGzRy6QNMQqhcbulkA2zpl5X79chE0",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/EB02-010.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB02-010_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/EB02-010_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "purple"]
@@ -35,7 +58,14 @@
 		{
 			"name": "Roronoa Zoro",
 			"id": "OP01-001",
-			"image": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?250530",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001_p2.png?250701",
+					"https://drive.google.com/file/d/uc?id=16Y6WSP5PZx9BjqKtKziY4wInQg6Y292L"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -43,7 +73,12 @@
 		{
 			"name": "Trafalgar Law",
 			"id": "OP01-002",
-			"image": "https://drive.google.com/uc?id=1tnPOgv4auj_Yfo1EDq2sCPZm8vpn5gU1",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-002.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-002_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "red"]
@@ -51,7 +86,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "OP01-003",
-			"image": "https://drive.google.com/uc?id=16oZOcVV-5eiSe_tD85alr3GhCOSWfZT6",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-003.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-003_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "red"]
@@ -59,7 +99,12 @@
 		{
 			"name": "Kozuki Oden",
 			"id": "OP01-031",
-			"image": "https://drive.google.com/uc?id=1vTEs7yzxZjAFE6vnbx2rUhH9CEwAv7T-",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-031.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-031_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -67,7 +112,13 @@
 		{
 			"name": "Donquixote Doflamingo",
 			"id": "OP01-060",
-			"image": "https://drive.google.com/uc?id=1S6xnqiiEET1KXhm24DydO3NNDiPOQGmO",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-060.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-060.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-060_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -75,7 +126,12 @@
 		{
 			"name": "Kaido",
 			"id": "OP01-061",
-			"image": "https://drive.google.com/uc?id=1iwoZIVIArK-NnEFg136b0wr7gHQhrh_-",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-061.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-061_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "purple"]
@@ -83,7 +139,12 @@
 		{
 			"name": "Crocodile",
 			"id": "OP01-062",
-			"image": "https://drive.google.com/uc?id=1SoTc7gLvcoNO_M1RAQ3blLuycDWEiw8-",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-062.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-062_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "purple"]
@@ -91,7 +152,12 @@
 		{
 			"name": "King",
 			"id": "OP01-091",
-			"image": "https://drive.google.com/uc?id=1xRYRtZYP2BYiR7YfLw-UMfCpklDYHrkb",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP01-091.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP01-091_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -99,7 +165,13 @@
 		{
 			"name": "Edward Newgate",
 			"id": "OP02-001",
-			"image": "https://drive.google.com/uc?id=1cZH3c-nNFvWf0mtCdHmFPbbz2Xu638Mb",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-001_p2.png?250701"
+				]
+			},
 			"life": "6",
 			"power": "6000",
 			"colors": ["red"]
@@ -107,7 +179,12 @@
 		{
 			"name": "Monkey.D.Garp",
 			"id": "OP02-002",
-			"image": "https://drive.google.com/uc?id=184UZ_y6cZy7OmXKtJfWGJWLfUNnnqb3s",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-002.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-002_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "red"]
@@ -115,7 +192,12 @@
 		{
 			"name": "Kin'Emon",
 			"id": "OP02-025",
-			"image": "https://drive.google.com/uc?id=1sHV1faI7vKybuoKDmJcvg_7JBiBW9hwp",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-025.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-025_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -123,7 +205,12 @@
 		{
 			"name": "Sanji",
 			"id": "OP02-026",
-			"image": "https://drive.google.com/uc?id=1eoWefmAZ3nDRzfKagzEcCaG1dZ0eUfxh",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-026.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-026_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "green"]
@@ -131,7 +218,12 @@
 		{
 			"name": "Emporio Ivankov",
 			"id": "OP02-049",
-			"image": "https://drive.google.com/uc?id=1lHBksSYBiQvIgNevjIjxlRkAng1zNmrK",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-049.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-049_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -139,7 +231,12 @@
 		{
 			"name": "Magellan",
 			"id": "OP02-071",
-			"image": "https://drive.google.com/uc?id=1XLODp1FdnkmpoGqhaGIu50p5_5IPf4uY",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-071.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-071_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -147,7 +244,12 @@
 		{
 			"name": "Zephyr",
 			"id": "OP02-072",
-			"image": "https://drive.google.com/uc?id=1_iDqYAiWo-kgBu59DzGmofvlW2JBg6rj",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-072.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-072.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "purple"]
@@ -155,7 +257,13 @@
 		{
 			"name": "Smoker",
 			"id": "OP02-093",
-			"image": "https://drive.google.com/uc?id=1wRV6atXkPxv_e8jMBxGFUpUOrsir8oYJ",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-093.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-093_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP02-093_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -163,7 +271,13 @@
 		{
 			"name": "Portgas.D.Ace",
 			"id": "OP03-001",
-			"image": "https://drive.google.com/uc?id=1l2ogStsmFSA1563T4YJajAIGLjtm41X5",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-001_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -171,7 +285,12 @@
 		{
 			"name": "Kuro",
 			"id": "OP03-021",
-			"image": "https://drive.google.com/uc?id=1wgyG2WGzrNiq322XK6xeAZ2s5XOJ0Qxj",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-021.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-021_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -179,7 +298,12 @@
 		{
 			"name": "Arlong",
 			"id": "OP03-022",
-			"image": "https://drive.google.com/uc?id=1zeT9mAQjACAllPTMrsPLLXokv6Y00l6N",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-022.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-022_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "yellow"]
@@ -187,7 +311,12 @@
 		{
 			"name": "Nami",
 			"id": "OP03-040",
-			"image": "https://drive.google.com/uc?id=1Ad7LRrBLvR3jYnLbDppi7ZHsoA736QfH",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-040.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-040_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -195,7 +324,12 @@
 		{
 			"name": "Iceburg",
 			"id": "OP03-058",
-			"image": "https://drive.google.com/uc?id=1jjSrKMk8QWMzB1p9tTORfxHcvfUtkeGR",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-058.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-058_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -203,7 +337,12 @@
 		{
 			"name": "Rob Lucci",
 			"id": "OP03-076",
-			"image": "https://drive.google.com/uc?id=1ZAkGp78nf-_sa7YqG66d7puuodkOuDmq",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-076.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-076_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -211,7 +350,12 @@
 		{
 			"name": "Charlotte Linlin",
 			"id": "OP03-077",
-			"image": "https://drive.google.com/uc?id=1IPnUCFHEaYBnBPaiIIFd8PYp8dlnOhDQ",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-077.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-077_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "yellow"]
@@ -219,7 +363,13 @@
 		{
 			"name": "Charlotte Katakuri",
 			"id": "OP03-099",
-			"image": "https://drive.google.com/uc?id=1K4SeTCUwOwoVQ79TWI6S6k74vgaI87de",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP03-099_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["yellow"]
@@ -227,7 +377,12 @@
 		{
 			"name": "Nefertari Vivi",
 			"id": "OP04-001",
-			"image": "https://drive.google.com/uc?id=1Ww2U4BUUEsbevbA5x5iqiRaNX161pwv9",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP04-001_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue", "red"]
@@ -235,7 +390,12 @@
 		{
 			"name": "Donquixote Doflamingo",
 			"id": "OP04-019",
-			"image": "https://drive.google.com/uc?id=1RsvxayU75EqnfgsAKSSdhNtaKMqvv6Rj",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-019.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP04-019_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "purple"]
@@ -243,7 +403,12 @@
 		{
 			"name": "Issho",
 			"id": "OP04-020",
-			"image": "https://drive.google.com/uc?id=1dTOGrdacwgiMST9x-jmc7Kc5OGmVhl8N",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-020.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP04-020_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "green"]
@@ -251,7 +416,12 @@
 		{
 			"name": "Rebecca",
 			"id": "OP04-039",
-			"image": "https://drive.google.com/uc?id=1HyyOMBj7K1UxGOCsbXEsBdQehlFi2ZUk",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-039.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP04-039_p1.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black", "blue"]
@@ -259,7 +429,12 @@
 		{
 			"name": "Queen",
 			"id": "OP04-040",
-			"image": "https://drive.google.com/uc?id=1Fn_1lptHgAmEIbX0CgZwB4o0p5_JYNZP",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-040.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP04-040_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "yellow"]
@@ -267,7 +442,12 @@
 		{
 			"name": "Crocodile",
 			"id": "OP04-058",
-			"image": "https://drive.google.com/uc?id=1WMTTmU4KyQgc_fgV0BDAZ43CRMKgrBKs",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP04-058.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP04-058_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "yellow"]
@@ -275,7 +455,13 @@
 		{
 			"name": "Sabo",
 			"id": "OP05-001",
-			"image": "https://drive.google.com/uc?id=1yiRk2S0SGTCX0wJ3S7-eSNdbdSTHE2-o",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-001_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "red"]
@@ -283,7 +469,13 @@
 		{
 			"name": "Belo Betty",
 			"id": "OP05-002",
-			"image": "https://drive.google.com/uc?id=1GuwbmohqXMrG2ak042MY0CjC_RwE-psB",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-002.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-002_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-002_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["red", "yellow"]
@@ -291,7 +483,13 @@
 		{
 			"name": "Donquixote Rosinante",
 			"id": "OP05-022",
-			"image": "https://drive.google.com/uc?id=1-inXzGEnCs2x-Gi_7fLRJ9pG3VgC3jjG",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "green"]
@@ -299,7 +497,12 @@
 		{
 			"name": "Sakazuki",
 			"id": "OP05-041",
-			"image": "https://drive.google.com/uc?id=1pYNheIaJTBkuJWINrAn9ZLXusvzLkbht",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-041.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-041_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "blue"]
@@ -307,7 +510,15 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "OP05-060",
-			"image": "https://drive.google.com/uc?id=1-ROnerQY7a_jcveiblejocU8UDcZIRaT",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p2.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p3.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p4.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -315,7 +526,14 @@
 		{
 			"name": "Enel",
 			"id": "OP05-098",
-			"image": "https://drive.google.com/uc?id=1ZOo3RXlYGTAOtSEZ812-Y0Uv-pUwitJX",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP05-098.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-098_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP05-098_p2.png?250701",
+					"https://drive.google.com/file/d/uc?id=1848clUJUqp8NEiMqEdvEenMuV1Jb0noO"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["yellow"]
@@ -323,7 +541,13 @@
 		{
 			"name": "Uta",
 			"id": "OP06-001",
-			"image": "https://drive.google.com/uc?id=1eL2FJZhrTex6iAYfL1gsZMivIca9fqYq",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-001_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "red"]
@@ -331,7 +555,13 @@
 		{
 			"name": "Hody Jones",
 			"id": "OP06-020",
-			"image": "https://drive.google.com/uc?id=1wce9_saPEBO96NS6oLPIVYUBIEW2O-oB",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-020.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-020_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-020_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -339,7 +569,13 @@
 		{
 			"name": "Perona",
 			"id": "OP06-021",
-			"image": "https://drive.google.com/uc?id=1zh0EsPea3RHf1suBINgz-i-kczIUcMwZ",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-021.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-021_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-021_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "green"]
@@ -347,7 +583,14 @@
 		{
 			"name": "Yamato",
 			"id": "OP06-022",
-			"image": "https://drive.google.com/uc?id=1FnaI1ZjA4KL3EuCcr3oBXQjaEHoW-zC7",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-022.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "yellow"]
@@ -355,7 +598,13 @@
 		{
 			"name": "Vinsmoke Reiju",
 			"id": "OP06-042",
-			"image": "https://drive.google.com/uc?id=1D8kBiG-RKBwXxr9PkSYi1KZb2NiZ1RNe",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-042.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-042_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-042_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "purple"]
@@ -363,7 +612,13 @@
 		{
 			"name": "Gecko Moria",
 			"id": "OP06-080",
-			"image": "https://drive.google.com/uc?id=1iPo82FsIpigRPNt3KWPAteAKiX_UlThc",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP06-080.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-080_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP06-080_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -371,7 +626,13 @@
 		{
 			"name": "Monkey.D.Dragon",
 			"id": "OP07-001",
-			"image": "https://drive.google.com/uc?id=14Xf4KJR87c3w__f3Mjj_xuG4r1bqwsMJ",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-001_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -379,7 +640,14 @@
 		{
 			"name": "Jewelry Bonney",
 			"id": "OP07-019",
-			"image": "https://drive.google.com/uc?id=1vnnPhM_BxGnUtUK4hVW4vTGkCUTP52d2",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-019.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-019_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-019_p2.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-019_p3.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -387,7 +655,13 @@
 		{
 			"name": "Boa Hancock",
 			"id": "OP07-038",
-			"image": "https://drive.google.com/uc?id=1X49U1JrPMkAYmNrbKnlbGH0cvAGzo0hG",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-038.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-038_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-038_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -395,7 +669,13 @@
 		{
 			"name": "Foxy",
 			"id": "OP07-059",
-			"image": "https://drive.google.com/uc?id=1GcDaFU5Cel4TvgkkRV0s-gYQLkghWnQD",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-059.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-059_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-059_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -403,7 +683,13 @@
 		{
 			"name": "Rob Lucci",
 			"id": "OP07-079",
-			"image": "https://drive.google.com/uc?id=1DHyy40sfcHIusK9P24PafpLGgU3TiRoi",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-079.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-079_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-079_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -411,7 +697,13 @@
 		{
 			"name": "Vegapunk",
 			"id": "OP07-097",
-			"image": "https://drive.google.com/uc?id=1OaNd9c4o3nILAFamghjycSWdvSSy6jmo",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP07-097.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-097_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP07-097_p2.png?250701"
+				]
+			},
 			"life": "2",
 			"power": "5000",
 			"colors": ["yellow"]
@@ -419,7 +711,13 @@
 		{
 			"name": "Tony Tony.Chopper",
 			"id": "OP08-001",
-			"image": "https://drive.google.com/uc?id=1orVgMVjn01Rkdoefg_PjfMJoe3mz743A",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "red"]
@@ -427,7 +725,13 @@
 		{
 			"name": "Marco",
 			"id": "OP08-002",
-			"image": "https://drive.google.com/uc?id=1aLZSZX0emLyP1Xr9a9g5xbsCGhWxIGVD",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "red"]
@@ -435,7 +739,13 @@
 		{
 			"name": "Carrot",
 			"id": "OP08-021",
-			"image": "https://drive.google.com/uc?id=17GbzUVlx35f37Yt3-Q4jfy5DS_0F3mxA",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -443,7 +753,13 @@
 		{
 			"name": "King",
 			"id": "OP08-057",
-			"image": "https://drive.google.com/uc?id=14c3O3b6uXJfz2m8V7ceXo-NRAYwGomoP",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "purple"]
@@ -451,7 +767,13 @@
 		{
 			"name": "Charlotte Pudding",
 			"id": "OP08-058",
-			"image": "https://drive.google.com/uc?id=17W9Aqs5nc7jidkkC_taYt1pVoKkvSqgE",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "yellow"]
@@ -459,7 +781,13 @@
 		{
 			"name": "Kalgara",
 			"id": "OP08-098",
-			"image": "https://drive.google.com/uc?id=11m8AVPbJp47l-JKc2ItyrwySwpmxzvr8",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["yellow"]
@@ -467,7 +795,13 @@
 		{
 			"name": "Shanks",
 			"id": "OP09-001",
-			"image": "https://drive.google.com/uc?id=1vHw-1S7Dm4RlLwln5hH8dH51w_2GQMkz",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -475,7 +809,12 @@
 		{
 			"name": "Lim",
 			"id": "OP09-022",
-			"image": "https://drive.google.com/uc?id=1y-WDvH_r49O4LMAcTWzuDSRBuAEjdz8e",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-022_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "purple"]
@@ -483,7 +822,13 @@
 		{
 			"name": "Buggy",
 			"id": "OP09-042",
-			"image": "https://drive.google.com/uc?id=1eba_sE31hF22K6X6lgqr4zMZjJ7qvBy6",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -491,7 +836,13 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "OP09-061",
-			"image": "https://drive.google.com/uc?id=1Rk7-fz0NWmMBQelssJboJkvm-daLmIrB",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "purple"]
@@ -499,7 +850,12 @@
 		{
 			"name": "Nico Robin",
 			"id": "OP09-062",
-			"image": "https://drive.google.com/uc?id=1JvYy1xlUwzf4UVkbJj57y0QT1qKEgV0n",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-062_p1.png?250701"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "yellow"]
@@ -507,7 +863,13 @@
 		{
 			"name": "Marshall.D.Teach",
 			"id": "OP09-081",
-			"image": "https://drive.google.com/uc?id=1GU_eH-4s8jai-0_BrzBHCKKJfLy_8Vyl",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP09-081_p2.png?250701"
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -515,7 +877,12 @@
 		{
 			"name": "Smoker",
 			"id": "OP10-001",
-			"image": "https://drive.google.com/uc?id=1NcViFOwB4kb4B-PNfiXnPHorDrT3MvmF",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP10-001_p1.png?250701",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "red"]
@@ -523,7 +890,12 @@
 		{
 			"name": "Caesar Clown",
 			"id": "OP10-002",
-			"image": "https://drive.google.com/uc?id=10TZmiA5CrnwEMFSp6sjXdE_q0H67kz6F",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-002.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP10-002_p1.png?250701",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "red"]
@@ -531,7 +903,12 @@
 		{
 			"name": "Sugar",
 			"id": "OP10-003",
-			"image": "https://drive.google.com/uc?id=1g4xpJlq3PF1zRh3dXCSaWJPYrgc5EYnE",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-003.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP10-003_p1.png?250701",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "red"]
@@ -539,7 +916,12 @@
 		{
 			"name": "Trafalgar Law",
 			"id": "OP10-022",
-			"image": "https://drive.google.com/uc?id=1kB5CBDIev-aCRjf0xwZhXqgYvLtaiSLM",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-022.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP10-022_p1.png?250701",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "yellow"]
@@ -547,7 +929,12 @@
 		{
 			"name": "Usopp",
 			"id": "OP10-042",
-			"image": "https://drive.google.com/uc?id=1kneBckTUPWDe5Ny9FRmn3k3gcarO_Zt_",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-042.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP10-042_p1.png?250701",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "blue"]
@@ -555,7 +942,12 @@
 		{
 			"name": "Eustass \"Captain\" Kidd",
 			"id": "OP10-099",
-			"image": "https://drive.google.com/uc?id=1K_XZjnfLmpp-Tk8ekN3jVCue6ZuMBDtd",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP10-099.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP10-099_p1.png?250701",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["yellow"]
@@ -563,7 +955,12 @@
 		{
 			"name": "Koby",
 			"id": "OP11-001",
-			"image": "https://drive.google.com/uc?id=1NRRtZmFq7xBzok0YDES0dMeTsRvK3H4K",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP11-001_p1.png?250701",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "red"]
@@ -571,7 +968,12 @@
 		{
 			"name": "Jinbe",
 			"id": "OP11-021",
-			"image": "https://drive.google.com/uc?id=1-C_fWyynuLW_pXHqEyh9dc2cCWHTRVJ4",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-021.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP11-022_p1.png?250701",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -579,7 +981,12 @@
 		{
 			"name": "Shirahoshi",
 			"id": "OP11-022",
-			"image": "https://drive.google.com/uc?id=1MlH5nGgTzNBfm66TArgJ53Y_5UlMaElL",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-022.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP11-022_p1.png?250701",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green", "yellow"]
@@ -587,7 +994,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "OP11-040",
-			"image": "https://drive.google.com/uc?id=1C8jrowbpN-TarzSelvo_wqVwurGCL9VU",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-040.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP11-040_p1.png?250701",
+				]
+			},
 			"life": "3",
 			"power": "6000",
 			"colors": ["blue", "purple"]
@@ -595,7 +1007,12 @@
 		{
 			"name": "Nami",
 			"id": "OP11-041",
-			"image": "https://drive.google.com/uc?id=1gKjZqVtfSMLw2V8vj8E7AjNeB9zHRnS7",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP11-041_p1.png?250701",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "yellow"]
@@ -603,7 +1020,12 @@
 		{
 			"name": "Charlotte Katakuri",
 			"id": "OP11-062",
-			"image": "https://drive.google.com/uc?id=1VtIxRMDSrghB1aIw2ZxuZ43AmVJht5U-",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP11-062.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP11-062_p1.png?250701",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -611,7 +1033,12 @@
 		{
 			"name": "Silvers Rayleigh",
 			"id": "OP12-001",
-			"image": "https://drive.google.com/uc?id=1z2kgMzuvZxPPYDJdWvwwjjRuE-bcNBAs",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1jpG-osXSklSrNlvPN-c3FWyOEell1Uh6",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -619,7 +1046,12 @@
 		{
 			"name": "Roronoa Zoro",
 			"id": "OP12-020",
-			"image": "https://drive.google.com/uc?id=1wBJyxLyvGLeLFCzvL_ivmOVvABA3CfDN",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1J2cOY2M7Sp0kehp9dxDo3PRL0tjQx4fY",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -627,7 +1059,12 @@
 		{
 			"name": "Kuzan",
 			"id": "OP12-040",
-			"image": "https://drive.google.com/uc?id=1VR-KLAoNUb3_OShuyYrToay_CQ_LCEfb",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1wwV5N5N4bxyyqFQIvaLyUPGQrbLemZQu",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -635,7 +1072,12 @@
 		{
 			"name": "Sanji",
 			"id": "OP12-041",
-			"image": "https://drive.google.com/uc?id=1YWxygT3uURZwrVFfMnFt9zoPHsbW5x6g",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1cAXxWMYmfVnK7-O24BzXjp3dezqfjM1D",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "purple"]
@@ -643,7 +1085,12 @@
 		{
 			"name": "Donquixote Rosinante",
 			"id": "OP12-061",
-			"image": "https://drive.google.com/uc?id=1hypcoRopJJX4vGA60HhJQkVKwBGjy2t7",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1FK9WP3kC5L3XbIOLXLlsGe2elhEQXxDo",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "yellow"]
@@ -651,7 +1098,12 @@
 		{
 			"name": "Koala",
 			"id": "OP12-081",
-			"image": "https://drive.google.com/uc?id=147Hm180lRtdeA9jw95cjYrBvn_qTU0le",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1xA5yKxa9Q34CpuIW1G3UQ3nXqcIIEkFi",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "yellow"]
@@ -659,7 +1111,12 @@
 		{
 			"name": "Sanji",
 			"id": "PRB01-001",
-			"image": "https://drive.google.com/uc?id=1z4RfLjyaCOVm7ac-Bg9Tv-jUquoU0SZA",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/PRB01-001_p1.png?250701",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -667,7 +1124,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "ST01-001",
-			"image": "https://drive.google.com/uc?id=12nhQPly9Mmp3O_q9rphslKs9MLGCnE2B",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png?250701",
+				"images_alt": [
+					"https://drive.google.com/file/d/uc?id=1grikkxDd8-6aZ9Pab5yESqeSr8DxE6i7",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -675,7 +1137,12 @@
 		{
 			"name": "Eustass \"Captain\" Kidd",
 			"id": "ST02-001",
-			"image": "https://drive.google.com/uc?id=1MiWedaD-mmcT95OkVT84GJOnzNGqvVa3",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST02-001.png?250701",
+				"images_alt": [
+					"https://drive.google.com/file/d/uc?id=1E8lfLrhG7zzmRGrL_dhRBdZN6JB8hC4N",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -683,7 +1150,12 @@
 		{
 			"name": "Crocodile",
 			"id": "ST03-001",
-			"image": "https://drive.google.com/uc?id=11CiMGHfF6K3sWsXbmHb6QN5gYcD8GJVy",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png?250701",
+				"images_alt": [
+					"https://drive.google.com/file/d/uc?id=1592NqWOKFYIl5gOZUPNnhVRFT51fn4wD",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -691,7 +1163,12 @@
 		{
 			"name": "Kaido",
 			"id": "ST04-001",
-			"image": "https://drive.google.com/uc?id=1wS_Fot-V_YWP0NQy8Gc72p6JV3_JdssY",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png?250701",
+				"images_alt": [
+					"https://drive.google.com/file/d/uc?id=11EYhTgDYJrp5N4ci4XwZpkMZb7-5kAPg",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -699,7 +1176,12 @@
 		{
 			"name": "Shanks",
 			"id": "ST05-001",
-			"image": "https://drive.google.com/uc?id=1qGg-kf-DH7yZkK1X0edbxkmlD899B_QS",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST05-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple"]
@@ -707,7 +1189,12 @@
 		{
 			"name": "Sakazuki",
 			"id": "ST06-001",
-			"image": "https://drive.google.com/uc?id=1g7BSvP7rgQ5cim7fxafUrMYJSvtpl2W2",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST06-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -715,7 +1202,12 @@
 		{
 			"name": "Charlotte Linlin",
 			"id": "ST07-001",
-			"image": "https://drive.google.com/uc?id=1TZ5scqmGBxAR0lC3p4LUuHrcOU_pSTLs",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST07-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["yellow"]
@@ -723,7 +1215,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "ST08-001",
-			"image": "https://drive.google.com/uc?id=1bhkR70MkV4PqTZZ0Rf5TITETyMHIGRyC",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -731,7 +1228,12 @@
 		{
 			"name": "Yamato",
 			"id": "ST09-001",
-			"image": "https://drive.google.com/uc?id=12f4HMO4T4SiNErSU-rbIliQr3FTh8Ikl",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["yellow"]
@@ -739,7 +1241,12 @@
 		{
 			"name": "Trafalgar Law",
 			"id": "ST10-001",
-			"image": "https://drive.google.com/uc?id=1ymsuuPtYb0XImrr5CKSf2uSKC3v1-58V",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "red"]
@@ -747,7 +1254,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "ST10-002",
-			"image": "https://drive.google.com/uc?id=1ymsuuPtYb0XImrr5CKSf2uSKC3v1-58V",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-002.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "3",
 			"power": "6000",
 			"colors": ["purple", "red"]
@@ -755,7 +1267,12 @@
 		{
 			"name": "Eustass \"Captain\" Kidd",
 			"id": "ST10-003",
-			"image": "https://drive.google.com/uc?id=152fDzvDkN1yu_8GwXZyCahhBGdP1YIqC",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST10-003.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["purple", "red"]
@@ -763,7 +1280,12 @@
 		{
 			"name": "Uta",
 			"id": "ST11-001",
-			"image": "https://drive.google.com/uc?id=1fE5TH_KF4ZAzyjCHiiRaFaSFI7lnHSJE",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/ST11-001_p1.png?250701",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["green"]
@@ -771,7 +1293,12 @@
 		{
 			"name": "Roronoa Zoro & Sanji",
 			"id": "ST12-001",
-			"image": "https://drive.google.com/uc?id=1GTHpJXldBoSVG90eS6N5bTLoe2UrlzVE",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST12-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "green"]
@@ -779,7 +1306,13 @@
 		{
 			"name": "Sabo",
 			"id": "ST13-001",
-			"image": "https://drive.google.com/uc?id=1iAEXVq_6bLrf5zgqlZnqNMCxWWLq7_G5",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/ST13-001_p1.png?250701",
+					"https://drive.google.com/file/d/uc?id=1SMm5ifMZiqA0WgBuVbdULp37uVezE5LP"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["red", "yellow"]
@@ -787,7 +1320,13 @@
 		{
 			"name": "Portgas.D.Ace",
 			"id": "ST13-002",
-			"image": "https://drive.google.com/uc?id=1sE_r5vupgUYaOC3Tr5rqc2Ovh8f8RgPS",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-002.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/ST13-002_p1.png?250701",
+					"https://drive.google.com/file/d/uc?id=17Mj8di-fMaWCRSZWn8oBbCheQbq8ZHDA"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["blue", "yellow"]
@@ -795,7 +1334,14 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "ST13-003",
-			"image": "https://drive.google.com/uc?id=17JfEqbzXS9YD1gHyIf_HxKznpcE8nVss",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p1.png?250701",
+					"https://en.onepiece-cardgame.com/images/cardlist/card/ST13-003_p2.png?250701",
+					"https://drive.google.com/file/d/uc?id=1CFU1VkZOxYMLzeQZSVFILTa0vlE6V7q4"
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "yellow"]
@@ -803,7 +1349,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "ST14-001",
-			"image": "https://drive.google.com/uc?id=1Yn-m45kPYszeKW2mjfTqDewoSNmwK0MC",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST14-001.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["black"]
@@ -811,7 +1362,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "ST21-001",
-			"image": "https://drive.google.com/uc?id=1BegOOv7n5Kwbd_upxWaFaAKGll4hzExV",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001.png?250701",
+				"images_alt": [
+					"https://en.onepiece-cardgame.com/images/cardlist/card/ST21-001_p1.png?250701",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -819,7 +1375,12 @@
 		{
 			"name": "Uta",
 			"id": "P-011",
-			"image": "https://drive.google.com/uc?id=1UsPiV79pQlwZ7sEMU48BJwJoGq_6xl1Q",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1Z_gRrhIYx9vQJYZJDikIC6_Y3CLGuT8_",
+				"images_alt": [
+					"https://drive.google.com/file/d/uc?id=1iSDb74xfBq7HehiWIhUdEP2rBEkJVFwN",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["red"]
@@ -827,7 +1388,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "P-047",
-			"image": "https://drive.google.com/uc?id=1GR1pMq4Qp7-WuhZ6_KfHMwFDbgboWbhw",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/P-047.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue"]
@@ -835,7 +1401,12 @@
 		{
 			"name": "Sakazuki",
 			"id": "P-076",
-			"image": "https://drive.google.com/uc?id=1CTvLvT1bBuYs6MDuiqb4vo1jLoUJq0f1",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/P-076.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "blue"]
@@ -843,7 +1414,12 @@
 		{
 			"name": "Trafalgar Law",
 			"id": "P-088",
-			"image": "https://drive.google.com/uc?id=1aYECbKsYHfKBTugVBjxKtpuxAs7F_1tQ",
+			"images": {
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/P-088.png?250701",
+				"images_alt": [
+					"",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["purple", "red"]
@@ -851,7 +1427,12 @@
 		{
 			"name": "Monkey.D.Luffy",
 			"id": "P-999",
-			"image": "https://drive.google.com/uc?id=1NtKX3OwLp0UVpVEWcZBHwWbWX-Jg1CA5",
+			"images": {
+				"image_en": "https://drive.google.com/file/d/uc?id=1CXVkEa-Coe_NwddWdX8m1MYgO94xGGTs",
+				"images_alt": [
+					"https://drive.google.com/file/d/uc?id=1xSs2pHSRM2NMWDuSujH_RhhYwJ9k0Liw",
+				]
+			},
 			"life": "4",
 			"power": "5000",
 			"colors": ["black", "blue", "green", "purple", "red", "yellow"]
