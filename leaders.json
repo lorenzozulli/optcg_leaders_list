@@ -13,7 +13,7 @@
 			"life": "4",
 			"power": "5000",
 			"colors": ["green", "red"],
-			"effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.\n[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn."
+			"effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.\\n[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn."
 		},
 		{
 			"name": "Hannyabal",
