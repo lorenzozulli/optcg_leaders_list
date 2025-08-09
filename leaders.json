@@ -1191,6 +1191,71 @@
 			"effect": "When this Leader attacks your opponent's Leader, if you have 2 or more Characters with a cost of 8 or more, draw 1 card.\n[Once Per Turn] This effect can be activated when your opponent plays a Character with a base cost of 8 or more, or when your opponent plays a Character using a Character's effect. Your opponent adds 1 card from the top of their Life cards to their hand."
 		},
 		{
+			"name": "Monkey.D.Luffy",
+			"id": "OP13-001",
+			"images": {
+				"image_en": "https://onepiecetopdecks.com/wp-content/uploads/2025/06/op13-001.jpg",
+				"images_alt":[
+				]
+			},
+			"life": "4",
+			"power": "5000",
+			"colors": ["green", "red"],
+			"effect": "[Don!!x1][On Opponent’s Attack]\nIf your total active Don!! is 5 or less, you may rest any number of those Don!!. For each Don!! rested this way, give this leader or up to one of your {Strawhat Crew} type characters +2000 power for this battle."
+		},
+		{
+			"name": "Portgas.D.Ace",
+			"id": "OP13-002",
+			"images": {
+				"image_en": "https://onepiecetopdecks.com/wp-content/uploads/2025/06/OP13-002-1-733x1024.jpeg",
+				"images_alt":[
+				]
+			},
+			"life": "3",
+			"power": "6000",
+			"colors": ["blue", "red"],
+			"effect": "[On your opponent's attack][Once Per Turn] You may discard 1 card from your hand: Give up to 1 of your opponent's leader or character -2000 power during this battle.\n[DON!! x1][Once Per Turn] When you take damage or when your character with an original power of 6000 or more is KO'd, draw a card."
+		},
+		{
+			"name": "Gol.D.Roger",
+			"id": "OP13-003",
+			"images": {
+				"image_en": "https://onepiecetopdecks.com/wp-content/uploads/2025/06/OP13-003-1-733x1024.jpeg",
+				"images_alt":[
+				]
+			},
+			"life": "5",
+			"power": "7000",
+			"colors": ["purple", "red"],
+			"effect": "If you have Don!! on your field, give this leader 1 of the Don!! cards that would be added during your Don!! phase.\nWhile you have 9 or fewer Don!! on your field, this leader has -2000 power."
+		},
+		{
+			"name": "Sabo",
+			"id": "OP13-004",
+			"images": {
+				"image_en": "https://onepiecetopdecks.com/wp-content/uploads/2025/06/OP13-004-1-733x1024.jpeg",
+				"images_alt":[
+				]
+			},
+			"life": "5",
+			"power": "5000",
+			"colors": ["black", "red"],
+			"effect": "If your have 4 or more life cards, give this leader -1000 Power.\n[DON!! x1] If you control a character with a cost of 8 or more, your leader and all of your characters gains +1000 Power."
+		},
+		{
+			"name": "Jewelry Bonney",
+			"id": "OP13-100",
+			"images": {
+				"image_en": "https://onepiecetopdecks.com/wp-content/uploads/2025/06/op13-100-744x1024.jpeg",
+				"images_alt":[
+				]
+			},
+			"life": "5",
+			"power": "5000",
+			"colors": ["yellow"],
+			"effect": "[Your Turn][Once Per Turn] When you play a character with a [Trigger], you may activate this effect. Give one of your leaders or characters 2 rested DON!!"
+		},
+		{
 			"name": "Sanji",
 			"id": "PRB01-001",
 			"images": {
