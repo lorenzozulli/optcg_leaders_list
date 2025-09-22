@@ -414,7 +414,7 @@
 			"life": "5",
 			"power": "5000",
 			"colors": ["blue", "red"],
-			"effect": "This Leader cannot attack.\n[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Draw 1 card and up to 1 of your Characters gains [Rush] during this turn.\\(This card can attack on the turn in which it is played.)"
+			"effect": "This Leader cannot attack.\n[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Draw 1 card and up to 1 of your Characters gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)"
 		},
 		{
 			"name": "Donquixote Doflamingo",
