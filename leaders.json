@@ -1261,7 +1261,7 @@
 			"life": "4",
 			"power": "5000",
 			"colors": ["black"],
-			"effect": ""
+			"effect": "Under the rules of this game, you cannot include Events with a cost of 2 or more in your deck. Also at the start of the game, play up to 1 {Mary Geoise} type Stage from your deck.\n[Activate: Main] [Once Per Turn] You may trash 1 {Celestial Dragons} type Character from your field or 1 card from your hand: Draw 1 card."
 		},
 		{
 			"name": "Jewelry Bonney",
