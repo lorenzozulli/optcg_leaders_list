@@ -61,6 +61,21 @@
 			"effect": "[Activate: Main] [Once Per Turn] DON!! −2: If the only Characters on your field are {Straw Hat Crew} type Characters, set up to 2 of your DON!! cards as active. Then, this Leader gains +1000 power until the end of your opponent's next turn."
 		},
 		{
+			"name": "Nefertari Vivi",
+			"id": "EB03-001",
+			"images": {
+				"image_en": "https://onepiece-cardgame.com/images/cardlist/card/EB03-001.png?251023",
+				"images_alt": [
+					"https://onepiece-cardgame.com/images/cardlist/card/EB03-001_p1.png?251023"
+				]
+			},
+			"life": "4",
+			"power": "5000",
+			"colors": ["red", "blue"],
+			"effect": "[Once Per Turn] If your Character with a base cost of 4 or more would be K.O.'d, you may trash 1 card from your hand instead.\n[Activate: Main] You may rest this Leader: Give up to 1 of your opponent's Characters -2000 power during this turn. Then, up to 1 of your Characters without a [When Attacking] effect gains [Rush] during this turn."
+			
+		},
+		{
 			"name": "Roronoa Zoro",
 			"id": "OP01-001",
 			"images": {
@@ -1197,9 +1212,9 @@
 			"name": "Monkey.D.Luffy",
 			"id": "OP13-001",
 			"images": {
-				"image_en": "https://onepiece-cardgame.com/images/cardlist/card/OP13-001.png?250718",
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-001.png?251017",
 				"images_alt":[
-					"https://onepiece-cardgame.com/images/cardlist/card/OP13-001_p2.png?250718"
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP13-001_p1.png?251017"
 				]
 			},
 			"life": "4",
@@ -1211,9 +1226,9 @@
 			"name": "Portgas.D.Ace",
 			"id": "OP13-002",
 			"images": {
-				"image_en": "https://onepiece-cardgame.com/images/cardlist/card/OP13-002.png?250718",
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-002.png?251017",
 				"images_alt":[
-					"https://onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.png?250718"	
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP13-002_p1.png?251017"	
 				]
 			},
 			"life": "3",
@@ -1225,9 +1240,9 @@
 			"name": "Gol.D.Roger",
 			"id": "OP13-003",
 			"images": {
-				"image_en": "https://onepiece-cardgame.com/images/cardlist/card/OP13-003.png?250718",
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-003.png?251017",
 				"images_alt":[
-					"https://onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.png?250718"	
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP13-003_p1.png?251017"	
 				]
 			},
 			"life": "5",
@@ -1239,9 +1254,9 @@
 			"name": "Sabo",
 			"id": "OP13-004",
 			"images": {
-				"image_en": "https://onepiece-cardgame.com/images/cardlist/card/OP13-004.png?250718",
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-004.png?251017",
 				"images_alt":[
-					"https://onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.png?250718"
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP13-004_p1.png?251017"
 				]
 			},
 			"life": "5",
@@ -1253,9 +1268,9 @@
 			"name": "Imu",
 			"id": "OP13-079",
 			"images": {
-				"image_en": "https://onepiece-cardgame.com/images/cardlist/card/OP13-079.png?250718",
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-079.png?251017",
 				"images_alt":[
-					"https://onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.png?250718"
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP13-079_p1.png?251017"
 				]
 			},
 			"life": "4",
@@ -1267,9 +1282,9 @@
 			"name": "Jewelry Bonney",
 			"id": "OP13-100",
 			"images": {
-				"image_en": "https://onepiece-cardgame.com/images/cardlist/card/OP13-100.png?250718",
+				"image_en": "https://en.onepiece-cardgame.com/images/cardlist/card/OP13-100.png?251017",
 				"images_alt":[
-					"https://onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.png?250718"
+					"https://en.onepiece-cardgame.com/images/cardlist/card/OP13-100_p1.png?251017"
 				]
 			},
 			"life": "5",
